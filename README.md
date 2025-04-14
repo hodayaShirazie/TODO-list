@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TODO List Application
 
 A simple TODO list application built using the **PERN stack** (PostgreSQL, Express, React, Node.js).
@@ -96,3 +97,6 @@ Once both backend and frontend are running:
 - **Add Task**: Enter a description and click "Add Task"
 - **Edit Task**: Click "Edit" next to a task to update it
 - **Delete Task**: Click "Delete" next to a task to remove it
+=======
+# TODO-list
+>>>>>>> b5057a3aa90dbfd00a55e05938d688c2390e1527
