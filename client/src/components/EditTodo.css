@@ -1,0 +1,41 @@
+.edit-container {
+    max-width: 500px;
+    margin: 60px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .edit-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .edit-textbox {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    resize: none;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  
+  .edit-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #38a169;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .edit-button:hover {
+    background-color: #2f855a;
+  }
+  
